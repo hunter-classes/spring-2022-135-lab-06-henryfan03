@@ -1,4 +1,4 @@
-#pragma once;
+#pragma once
 #include <string>
 
 std::string decryptCaesar(std::string ciphertext, int rshift);
